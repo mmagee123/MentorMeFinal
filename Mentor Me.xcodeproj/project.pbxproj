@@ -15,6 +15,14 @@
 		65A869DB1E678C7500DD2379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65A869D91E678C7500DD2379 /* LaunchScreen.storyboard */; };
 		65A869E61E678C7500DD2379 /* Mentor_MeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A869E51E678C7500DD2379 /* Mentor_MeTests.swift */; };
 		65A869F11E678C7500DD2379 /* Mentor_MeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A869F01E678C7500DD2379 /* Mentor_MeUITests.swift */; };
+		ACB454EA1E8C461600736F25 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB454E91E8C461600736F25 /* SettingsViewController.swift */; };
+		ACBA6FB91E8451AA00F5CA02 /* MainHomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FB71E8451AA00F5CA02 /* MainHomePageViewController.swift */; };
+		ACBA6FBC1E8451DC00F5CA02 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FBB1E8451DC00F5CA02 /* RegisterViewController.swift */; };
+		ACBA6FBE1E8451F600F5CA02 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FBD1E8451F600F5CA02 /* LoginViewController.swift */; };
+		ACBA6FC01E84521500F5CA02 /* WWYLTDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FBF1E84521500F5CA02 /* WWYLTDViewController.swift */; };
+		ACBA6FC21E84523900F5CA02 /* EditMentorProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FC11E84523900F5CA02 /* EditMentorProfileViewController.swift */; };
+		ACBA6FC41E84526200F5CA02 /* MentorHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FC31E84526200F5CA02 /* MentorHomeViewController.swift */; };
+		ACBA6FC81E84529400F5CA02 /* EditMenteeProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA6FC71E84529400F5CA02 /* EditMenteeProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +57,14 @@
 		65A869EC1E678C7500DD2379 /* Mentor MeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mentor MeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65A869F01E678C7500DD2379 /* Mentor_MeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mentor_MeUITests.swift; sourceTree = "<group>"; };
 		65A869F21E678C7500DD2379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACB454E91E8C461600736F25 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		ACBA6FB71E8451AA00F5CA02 /* MainHomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainHomePageViewController.swift; sourceTree = "<group>"; };
+		ACBA6FBB1E8451DC00F5CA02 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		ACBA6FBD1E8451F600F5CA02 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		ACBA6FBF1E84521500F5CA02 /* WWYLTDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WWYLTDViewController.swift; sourceTree = "<group>"; };
+		ACBA6FC11E84523900F5CA02 /* EditMentorProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditMentorProfileViewController.swift; sourceTree = "<group>"; };
+		ACBA6FC31E84526200F5CA02 /* MentorHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MentorHomeViewController.swift; sourceTree = "<group>"; };
+		ACBA6FC71E84529400F5CA02 /* EditMenteeProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditMenteeProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +118,14 @@
 				65A869CD1E678C7500DD2379 /* AppDelegate.swift */,
 				65A869CF1E678C7500DD2379 /* ViewController.swift */,
 				65A869D11E678C7500DD2379 /* Main.storyboard */,
+				ACBA6FC71E84529400F5CA02 /* EditMenteeProfileViewController.swift */,
+				ACB454E91E8C461600736F25 /* SettingsViewController.swift */,
+				ACBA6FC31E84526200F5CA02 /* MentorHomeViewController.swift */,
+				ACBA6FC11E84523900F5CA02 /* EditMentorProfileViewController.swift */,
+				ACBA6FBF1E84521500F5CA02 /* WWYLTDViewController.swift */,
+				ACBA6FBD1E8451F600F5CA02 /* LoginViewController.swift */,
+				ACBA6FBB1E8451DC00F5CA02 /* RegisterViewController.swift */,
+				ACBA6FB71E8451AA00F5CA02 /* MainHomePageViewController.swift */,
 				65A869D71E678C7500DD2379 /* Assets.xcassets */,
 				65A869D91E678C7500DD2379 /* LaunchScreen.storyboard */,
 				65A869DC1E678C7500DD2379 /* Info.plist */,
@@ -262,9 +286,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACBA6FC41E84526200F5CA02 /* MentorHomeViewController.swift in Sources */,
+				ACBA6FBE1E8451F600F5CA02 /* LoginViewController.swift in Sources */,
+				ACBA6FC01E84521500F5CA02 /* WWYLTDViewController.swift in Sources */,
 				65A869D61E678C7500DD2379 /* Mentor_Me.xcdatamodeld in Sources */,
+				ACBA6FC21E84523900F5CA02 /* EditMentorProfileViewController.swift in Sources */,
+				ACBA6FC81E84529400F5CA02 /* EditMenteeProfileViewController.swift in Sources */,
+				ACBA6FBC1E8451DC00F5CA02 /* RegisterViewController.swift in Sources */,
 				65A869D01E678C7500DD2379 /* ViewController.swift in Sources */,
+				ACBA6FB91E8451AA00F5CA02 /* MainHomePageViewController.swift in Sources */,
 				65A869CE1E678C7500DD2379 /* AppDelegate.swift in Sources */,
+				ACB454EA1E8C461600736F25 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,6 +541,7 @@
 				65A869F71E678C7500DD2379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		65A869F81E678C7500DD2379 /* Build configuration list for PBXNativeTarget "Mentor MeTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +550,7 @@
 				65A869FA1E678C7500DD2379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		65A869FB1E678C7500DD2379 /* Build configuration list for PBXNativeTarget "Mentor MeUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +559,7 @@
 				65A869FD1E678C7500DD2379 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
